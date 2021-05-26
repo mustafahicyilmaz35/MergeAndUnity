@@ -10,11 +10,12 @@ public class PlayerControl : MonoBehaviour
     #endregion
 
     #region mustafa
-   
+
     #endregion
 
     #region Ozgur
-    
+    [SerializeField] float speed;
+    [SerializeField] GameObject cube;
     #endregion
 
     #region Samet
@@ -45,7 +46,7 @@ public class PlayerControl : MonoBehaviour
         #endregion
 
         #region Ozgur
-
+        Debug.Log("Start");
         #endregion
 
 
