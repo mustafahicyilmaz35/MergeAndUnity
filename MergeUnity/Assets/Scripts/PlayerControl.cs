@@ -54,8 +54,8 @@ public class PlayerControl : MonoBehaviour
     #endregion
 
     #region Ozgur
-
-
+    [SerializeField] float carSpeed;
+    //Ozgur 22.10
 
 
 
