@@ -8,20 +8,20 @@ public class PlayerControl : MonoBehaviour
     #region ali
 
 
+    //kod kod
+
+
+
+    //kod kod
 
 
 
 
+    //kod kod
 
 
 
-
-
-
-
-
-
-
+    //kod kod
 
 
 
@@ -137,22 +137,22 @@ public class PlayerControl : MonoBehaviour
         #region ali
 
 
+        //kod kod
+
+
+
+
+        //kod kod
 
 
 
 
 
+        //kod kod
 
 
 
-
-
-
-
-
-
-
-
+        //kod kod
 
 
 
