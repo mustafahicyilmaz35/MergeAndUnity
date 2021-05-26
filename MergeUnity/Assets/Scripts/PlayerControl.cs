@@ -30,7 +30,7 @@ public class PlayerControl : MonoBehaviour
     #endregion
 
     #region mustafa
-
+    public float hiz = 10f;
 
 
 
