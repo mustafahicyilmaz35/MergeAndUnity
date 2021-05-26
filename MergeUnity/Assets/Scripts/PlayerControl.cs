@@ -81,7 +81,7 @@ public class PlayerControl : MonoBehaviour
 
 
 
-
+    public GameObject obj;
 
 
 
@@ -213,7 +213,7 @@ public class PlayerControl : MonoBehaviour
 
 
 
-
+        obj.active = true;
 
 
 
