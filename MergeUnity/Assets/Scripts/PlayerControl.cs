@@ -10,14 +10,28 @@ public class PlayerControl : MonoBehaviour
     #endregion
 
     #region mustafa
-   
+
     #endregion
 
     #region Ozgur
-    
+
     #endregion
 
     #region Samet
+    //samet 22.222
+    //samet 22.222
+
+    //samet 22.222
+    //samet 22.222
+    //samet 22.222
+
+    //samet 22.222
+
+    //samet 22.222
+
+
+
+
 
     #endregion
 
@@ -51,6 +65,20 @@ public class PlayerControl : MonoBehaviour
 
 
         #region Samet
+        //samet 22.222
+
+        //samet 22.222
+        //samet 22.222
+
+        //samet 22.222
+        //samet 22.222
+        //samet 22.222
+
+
+
+
+
+
 
         #endregion
 
