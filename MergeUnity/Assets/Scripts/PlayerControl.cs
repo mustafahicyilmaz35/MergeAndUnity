@@ -11,9 +11,9 @@ public class PlayerControl : MonoBehaviour
 
     #region mustafa
 
-    public float mustafa1 = 10f;
-    public float mustafa2 = 10f;
-      
+    public float mustafa1 = 20f;
+    public float mustafa2 = 40f;
+    public float ozgur = 2;
     #endregion
 
     #region Ozgur
@@ -92,11 +92,6 @@ public class PlayerControl : MonoBehaviour
         
         
 
-    [SerializeField] float speed;
-    [SerializeField] GameObject cube;
 
-    #endregion
-
-    #region Samet
     }
 }
