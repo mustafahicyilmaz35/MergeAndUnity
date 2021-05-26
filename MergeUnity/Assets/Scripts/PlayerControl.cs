@@ -6,7 +6,7 @@ public class PlayerControl : MonoBehaviour
 {
 
     #region ali
-
+    // daha cok kod
     #endregion
 
     #region mustafa
@@ -39,7 +39,7 @@ public class PlayerControl : MonoBehaviour
     void Update()
     {
         #region ali
-
+        // daha cok kod
 
         #endregion
 
