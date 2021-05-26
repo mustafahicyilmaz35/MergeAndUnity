@@ -10,10 +10,9 @@ public class PlayerControl : MonoBehaviour
     #endregion
 
     #region mustafa
-
-    public float mustafa1 = 60f;
-    public float mustafa2 = 100f;
-    public float ali = 2;
+  public float mustafa1 = 66f;
+    public float mustafa2 = 88f;
+    public float ozgur = 6;
     #endregion
 
     #region Ozgur
