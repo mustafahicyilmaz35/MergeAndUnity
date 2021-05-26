@@ -17,11 +17,24 @@ public class PlayerControl : MonoBehaviour
     #endregion
 
     #region Ozgur
-    [SerializeField] float speed;
-    [SerializeField] GameObject cube;
-    #endregion
+    
+    
+    
 
-    #region Samet
+    //samet 22.222
+    //samet 22.222
+
+    //samet 22.222
+    //samet 22.222
+    //samet 22.222
+
+    //samet 22.222
+
+    //samet 22.222
+
+
+
+
 
     #endregion
 
@@ -55,6 +68,20 @@ public class PlayerControl : MonoBehaviour
 
 
         #region Samet
+        //samet 22.222
+
+        //samet 22.222
+        //samet 22.222
+
+        //samet 22.222
+        //samet 22.222
+        //samet 22.222
+
+
+
+
+
+
 
         #endregion
 
@@ -62,5 +89,14 @@ public class PlayerControl : MonoBehaviour
         #region Ugur
 
         #endregion
+        
+        
+
+    [SerializeField] float speed;
+    [SerializeField] GameObject cube;
+
+    #endregion
+
+    #region Samet
     }
 }
